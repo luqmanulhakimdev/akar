@@ -1,3 +1,4 @@
 *.js linguist-vendored=false
 *.html linguist-vendored=false
 *.css linguist-vendored=false
+user_guide/* linguist-vendored=false
